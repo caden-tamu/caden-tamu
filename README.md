@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 👋
+
+My name is Caden, and I am an aspiring Actuary. I am currently working on developing my skills in data science through Python and SQL, as well as building a portfolio for my future job interviews. 
+
+Ask me about risk modeling or the actuary exam process!
 
 <!--
 **caden-tamu/caden-tamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
